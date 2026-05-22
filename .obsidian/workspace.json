@@ -11,12 +11,14 @@
             "id": "0f11bb4adadebd82",
             "type": "leaf",
             "state": {
-              "type": "html-view",
+              "type": "markdown",
               "state": {
-                "file": "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html"
+                "file": "原始数据/html/11122.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "code-glyph",
-              "title": "AI量化交易实战：用Python构建智能交易系统"
+              "icon": "lucide-file",
+              "title": "11122"
             }
           }
         ]
@@ -138,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html",
+                "file": "原始数据/html/11122.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AI量化交易实战：用Python构建智能交易系统 的大纲"
+              "title": "11122 的大纲"
             }
           },
           {
@@ -201,10 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7de269ee0f933b95",
+  "active": "0f11bb4adadebd82",
   "lastOpenFiles": [
-    "原始数据/pdf/因子投资方法与实践(因子投资中文版首著)(博文视点出品) (石川, 刘洋溢, 连祥斌).pdf",
     "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html",
+    "原始数据/html/11122.md",
+    "原始数据/pdf/因子投资方法与实践(因子投资中文版首著)(博文视点出品) (石川, 刘洋溢, 连祥斌).pdf",
     "原始数据/html/11.md",
     "原始数据/html/新建文本文档 (2).txt",
     "原始数据/pdf",
