@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "6f033e28f3602fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab8819dba22a83a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f11bb4adadebd82",
+            "type": "leaf",
+            "state": {
+              "type": "html-view",
+              "state": {
+                "file": "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html"
+              },
+              "icon": "code-glyph",
+              "title": "AI量化交易实战：用Python构建智能交易系统"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9fcd37466e7722d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6eeae86a784a294f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de269ee0f933b95",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "748556134f288d42",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "16f29a5a7b2c26fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "85e13227b8e433ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "86ae1ccc048472b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2ae377979ee509f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "130ae4e275a7aa54",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "29d5fbf4bb04867c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "740219df19ae0d61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "AI量化交易实战：用Python构建智能交易系统 的大纲"
+            }
+          },
+          {
+            "id": "041b6c6ca46a4309",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "28e0f0136e5a4789",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          },
+          {
+            "id": "3a71b49649684257",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 432.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "realclaudian:Open Claudian": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "7de269ee0f933b95",
+  "lastOpenFiles": [
+    "原始数据/pdf/因子投资方法与实践(因子投资中文版首著)(博文视点出品) (石川, 刘洋溢, 连祥斌).pdf",
+    "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html",
+    "原始数据/html/11.md",
+    "原始数据/html/新建文本文档 (2).txt",
+    "原始数据/pdf",
+    "原始数据/html/新建文本文档.txt",
+    "原始数据/html",
+    "原始数据/HTML/新建文本文档.txt",
+    "原始数据/PDF/因子投资方法与实践(因子投资中文版首著)(博文视点出品) (石川, 刘洋溢, 连祥斌).pdf",
+    "原始数据/HTML/AI量化交易实战：用Python构建智能交易系统.html",
+    "原始数据/PDF"
+  ]
+}

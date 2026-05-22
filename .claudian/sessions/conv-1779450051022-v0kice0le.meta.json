@@ -1,0 +1,24 @@
+{
+  "id": "conv-1779450051022-v0kice0le",
+  "providerId": "claude",
+  "title": "初始问候与交流",
+  "titleGenerationStatus": "success",
+  "createdAt": 1779450051026,
+  "updatedAt": 1779450083560,
+  "lastResponseAt": 1779450083560,
+  "sessionId": "94f6d9f4-b611-4e64-9237-95fa22799779",
+  "providerState": {
+    "providerSessionId": "94f6d9f4-b611-4e64-9237-95fa22799779"
+  },
+  "currentNote": "原始数据/html/AI量化交易实战：用Python构建智能交易系统.html",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 78,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 19456,
+    "contextWindow": 200000,
+    "contextTokens": 19534,
+    "percentage": 10,
+    "contextWindowIsAuthoritative": true
+  }
+}
